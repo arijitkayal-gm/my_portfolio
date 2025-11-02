@@ -132,27 +132,27 @@ div[id*='parallax-bg-'] {
 }
 
 #parallax-bg-1 {
-  background-image: url(/bg-l1.svg);
+  background-image: url('/my_portfolio/bg-l1.svg');
 }
 
 #parallax-bg-2 {
-  background-image: url(/bg-l2.svg);
+  background-image: url('/my_portfolio/bg-l2.svg');
 }
 
 #parallax-bg-3 {
-  background-image: url(/bg-l3.svg);
+  background-image: url('/my_portfolio/bg-l3.svg');
 }
 
 #parallax-bg-4 {
-  background-image: url(/bg-l4.svg);
+  background-image: url('/my_portfolio/bg-l4.svg');
 }
 
 #parallax-bg-5 {
-  background-image: url(/bg-l5.svg);
+  background-image: url('/my_portfolio/bg-l5.svg');
 }
 
 #parallax-bg-6 {
-  background-image: url(/bg-l6.svg);
+  background-image: url('/my_portfolio/bg-l6.svg');
 }
 
 .profile-image {
